@@ -1,4 +1,4 @@
-About the project
+  About the project
 
 - Implemented Logistic Regression for CHD prediction.
 - Tuned hyperparameters using GridSearchCV to optimize model performance.
