@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Rajesh Aligeti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning pursuing my Bachelors Degree in Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+About the project
 
-<!---
-Rajeshaligeti/Rajeshaligeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Implemented Logistic Regression for CHD prediction.
+- Tuned hyperparameters using GridSearchCV to optimize model performance.
+- Addressed class imbalance using SMOTE.
+- Evaluated models based on accuracy, precision, recall, F1-score, and ROC-AUC.
+- Visualized model performance metrics with bar plots.
+- Saved the best model for future use.
