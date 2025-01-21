@@ -69,14 +69,12 @@ Bar chart comparing Accuracy, Precision, Recall, and F1-Score to evaluate the ov
 
 
 
-
-
 #### **3. Confusion Matrix**
 The confusion matrix visualizes the actual versus predicted classifications of the model.
 
-![Confusion Matrix](images/confusion_matrix.png)
 
-![Model Performance Metrics](images/performance_metrics.png)
+
+![Model Performance Visualization](Results)
 
 ---
 
