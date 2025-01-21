@@ -58,20 +58,23 @@ The following visualizations highlight the performance of the Logistic Regressio
 #### **1. Receiver Operating Characteristic (ROC) Curve**
 This curve illustrates the trade-off between sensitivity (true positive rate) and specificity (1 - false positive rate).
 
-![ROC Curve](images/roc_curve.png)
 
 #### **2. Precision-Recall Curve**
 This curve emphasizes the balance between precision and recall, especially important for imbalanced datasets.
 
-![Precision-Recall Curve](images/precision_recall_curve.png)
+
+
+#### **4. Model Performance Metrics**
+Bar chart comparing Accuracy, Precision, Recall, and F1-Score to evaluate the overall performance of the model.
+
+
+
+
 
 #### **3. Confusion Matrix**
 The confusion matrix visualizes the actual versus predicted classifications of the model.
 
 ![Confusion Matrix](images/confusion_matrix.png)
-
-#### **4. Model Performance Metrics**
-Bar chart comparing Accuracy, Precision, Recall, and F1-Score to evaluate the overall performance of the model.
 
 ![Model Performance Metrics](images/performance_metrics.png)
 
