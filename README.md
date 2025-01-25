@@ -82,8 +82,8 @@ The confusion matrix visualizes the actual versus predicted classifications of t
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Cardiovascular_Risk_Prediction.git
+   ```bash[
+   https://github.com/Rajeshaligeti/Cardiovascular_Risk_Prediction.git
    ```
 
 2. Navigate to the project directory:
